@@ -33,6 +33,8 @@ a {
     font-family: 'Silkscreen', 'cursive';
 }*/
 
+
+
 .profile-pic {
     border-radius: 50%;
 }
@@ -50,6 +52,22 @@ a {
 .bottom-container {
 
 }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.coding-pic {
+    width: 25%;
+}
+
+.virus-pic {
+    width: 25%;
+}
+
 
 .top-cloud {
     position: absolute;
